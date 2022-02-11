@@ -1,0 +1,12 @@
+.list {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.list > div {
+  margin: 1rem;
+}
+
+#app {
+  margin: 1rem;
+}
